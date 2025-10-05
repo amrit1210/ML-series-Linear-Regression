@@ -43,14 +43,14 @@ Predictive Applications
 
 **Installation**
 
-## Clone the repo and install the required dependencies:
+# Clone the repo and install the required dependencies:
 ```bash
 git clone https://github.com/your-username/ML-series-Linear-Regression.git
 cd ML-series-Linear-Regression
 pip install -r requirements.txt
 
-## Running the Notebook
+# Running the Notebook
 
-## Start Jupyter Notebook and open the tutorial:
+# Start Jupyter Notebook and open the tutorial:
 
 jupyter notebook
