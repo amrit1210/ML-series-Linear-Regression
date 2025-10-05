@@ -16,6 +16,7 @@ A simple and practical introduction to Linear Regression using Python and Jupyte
 
 ---
 🚀 **Getting Started**
+
 Prerequisites
 
 Make sure you have the following installed:
